@@ -1,4 +1,4 @@
-# Deep Learning Workshop
+# Deep Learning Ball, Brick and Cylinder test
 
 ![](graphics/workshop_lander.gif)
 
